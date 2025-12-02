@@ -12,6 +12,6 @@ export default function ItemCreate() {
   };
 
   return (
-      <ItemForm<CreateItem> onSubmit={handleCreate} formTitle="Ajouter une immobilière"/>
+      <ItemForm<CreateItem> onSubmit={handleCreate} formTitle="Ajouter un bien immobilier"/>
   );
 }

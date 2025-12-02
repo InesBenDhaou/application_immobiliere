@@ -80,7 +80,7 @@ export default function ItemList() {
                 color="primary"
                 onClick={() => navigate("/create")}
             >
-                Ajouter une immobilière
+                Ajouter un bien immobilier
             </Button>
 
             <Stack

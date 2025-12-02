@@ -91,6 +91,8 @@ npm run dev
 
 - Enrichir l’application en intégrant **différents acteurs** (admin, agent, visiteur) avec des rôles séparés via des guards et un système d’authentification sécurisé.
 
+- Gestion d’état avec React Query/Zustand pour optimiser les appels API.
+
 
 
 

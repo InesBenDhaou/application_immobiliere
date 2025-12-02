@@ -28,7 +28,7 @@ export default function ItemEdit() {
   if (!item) return <Container>Loading...</Container>;
 
   return (
-      <ItemForm<UpdateItem> initialData={item} onSubmit={handleUpdate} formTitle="Modifier l'immobilière" />
+      <ItemForm<UpdateItem> initialData={item} onSubmit={handleUpdate} formTitle="Modifier un bien immobilier" />
     
   );
 }
