@@ -1,0 +1,82 @@
+{
+  "items": [
+    {
+      "id": "1a2b3c4j",
+      "title": "Appartement lumineux 2 pièces",
+      "city": "Paris",
+      "price": 320000,
+      "surface": 45
+    },
+    {
+      "id": "2b3c4d5e",
+      "title": "Studio proche centre-ville",
+      "city": "Lyon",
+      "price": 150000,
+      "surface": 28
+    },
+    {
+      "id": "3c4d5e6f",
+      "title": "Maison familiale avec jardin",
+      "city": "Toulouse",
+      "price": 450000,
+      "surface": 120
+    },
+    {
+      "id": "4d5e6f7a",
+      "title": "Appartement rénové 3 pièces",
+      "city": "Marseille",
+      "price": 230000,
+      "surface": 60
+    },
+    {
+      "id": "5e6f7g8h",
+      "title": "Loft moderne style industriel",
+      "city": "Bordeaux",
+      "price": 390000,
+      "surface": 80
+    },
+
+    {
+      "id": "1a2b3c4d",
+      "title": "Appartement lumineux 2 pièces",
+      "city": "Paris",
+      "price": 320000,
+      "surface": 45
+    },
+    {
+      "id": "2b3c4d5h",
+      "title": "Studio proche centre-ville",
+      "city": "Lyon",
+      "price": 150000,
+      "surface": 28
+    },
+    {
+      "id": "3c4d5e6b",
+      "title": "Maison familiale avec jardin",
+      "city": "Toulouse",
+      "price": 450000,
+      "surface": 120
+    },
+    {
+      "id": "4d5e6f7g",
+      "title": "Appartement rénové 3 pièces",
+      "city": "Marseille",
+      "price": 230000,
+      "surface": 60
+    },
+    {
+      "id": "5e6f7g8t",
+      "title": "Loft moderne style industriel",
+      "city": "Bordeaux",
+      "price": 390000,
+      "surface": 80
+    },
+    {
+      "id": "6f7g8h9i",
+      "title": "Petite maison en bord de mer",
+      "city": "Nice",
+      "price": 520000,
+      "surface": 70
+    }
+  ]
+}
